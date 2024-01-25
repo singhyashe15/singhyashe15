@@ -1,8 +1,12 @@
-![logo](https://github.com/singhyashe15/singhyashe15/blob/main/WhatsApp%20Image%202024-01-26%20at%2000.10.38_c167e3a6.jpg)
+![logo]()
 <h1 align="center">Hi 👋, I'm Yashraj Singh</h1>
 <h3 align="center">Aspiring full stack web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=singhyashe15&label=Profile%20views&color=0e75b6&style=flat" alt="singhyashe15" /> </p>
+
+- 💬 Ask me about **Mern**
+
+- 📫 How to reach me **singhyashraj574@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -17,3 +21,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=singhyashe15&show_icons=true&locale=en" alt="singhyashe15" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=singhyashe15&" alt="singhyashe15" /></p>
+
