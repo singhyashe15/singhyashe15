@@ -1,6 +1,6 @@
 ![logo](https://github.com/singhyashe15/singhyashe15/blob/main/WhatsApp%20Image%202024-01-26%20at%2000.10.38_c167e3a6.jpg)
 <h1 align="center">Hi 👋, I'm Yashraj Singh</h1>
-<h3 align="center">Aspiring full stack web developer</h3>
+<h3 align="center">I am a Full stack web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=singhyashe15&label=Profile%20views&color=0e75b6&style=flat" alt="singhyashe15" /> </p>
 
